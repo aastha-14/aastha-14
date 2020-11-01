@@ -4,7 +4,7 @@
 [![Linkedin: aastha-gupta-3a2187158](https://img.shields.io/badge/-aastha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aastha-gupta-3a2187158/)](https://www.linkedin.com/in/aastha-gupta-3a2187158/)
 [![Twitter: aastha](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AasthaG94806128)](https://twitter.com/AasthaG94806128)
 [![Facebook: aastha](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/14.aastha/)](https://www.facebook.com/14.aastha/)
-[![Instagram: aastha](https://img.shields.io/badge/-Instagram-lightgrey?style=flat-square&logo=instagram&logoColor=critical&link=https://www.instagram.com/14_aastha/)](https://www.instagram.com/14_aastha/)
+[![Instagram: aastha](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/14_aastha/)](https://www.instagram.com/14_aastha/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 - 🌱 I’m currently working, learning and growing in web development. 
