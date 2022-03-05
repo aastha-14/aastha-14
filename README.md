@@ -1,17 +1,12 @@
 <h2>Hi, I'm Aastha! <img src="https://media.giphy.com/media/cIjvVL8ecNWJsSkYxD/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
-[![Linkedin: aastha-gupta-3a2187158](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aastha-gupta-3a2187158/)](https://www.linkedin.com/in/aastha-gupta-3a2187158/)
-[![Twitter: aastha](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AasthaG94806128)](https://twitter.com/AasthaG94806128)
-[![Facebook: aastha](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/14.aastha/)](https://www.facebook.com/14.aastha/)
-[![Instagram: aastha](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/14_aastha/)](https://www.instagram.com/14_aastha/)
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 - 🌱 I’m currently working, learning and growing in web development. 
 - 🤔 I use daily .js, .json
 - 😄 Pronouns: She | Her
 - ⚡ Fun fact: My first line of code was not "Hello World!"
-- 📫 Reach me here: <a href="mailto:aastha1406@gmail.com">aastha1406@gmail.com</a>
+- 📫 Reach me here: <a href="mailto:aasthag.1406@gmail.com">aasthag.1406@gmail.com</a>
 
 ### My Skills
 <p align="center">
