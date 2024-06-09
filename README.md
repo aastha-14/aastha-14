@@ -2,11 +2,11 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-- 🌱 I’m currently working, learning and growing in web development. 
-- 🤔 I use daily .js, .json
-- 😄 Pronouns: She | Her
+- 🌱 Innovative Full Stack Developer with 5 Years of Experience in Building Robust Web Applications.
+- 🤔 Skills: React JS | Node JS | Express JS | MySQL | MariaDB | PostgreSQL | AWS | Docker
+- 😄 Languages: TypeScript | JavaScript | Java | OOPs
 - ⚡ Fun fact: My first line of code was not "Hello World!"
-- 📫 Reach me here: <a href="mailto:aasthag.1406@gmail.com">aasthag.1406@gmail.com</a>
+- 📫 Reach me here: <a href="mailto:aastha1406@gmail.com">aastha1406@gmail.com</a>
 
 ### My Skills
 <p align="center">
