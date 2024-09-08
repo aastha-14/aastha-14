@@ -1,7 +1,7 @@
-<h1> Hi, I'm Aastha! <img src="https://media.giphy.com/media/cIjvVL8ecNWJsSkYxD/giphy.gif" width="50"></h1>
+<h2> Hi, I'm Aastha! <img src="https://media.giphy.com/media/cIjvVL8ecNWJsSkYxD/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 - 🌱 Innovative Full Stack Developer with 5 Years of Experience in Building Robust Web Applications.
 - 🤔 Skills: React JS | Node JS | Express JS | MySQL | MariaDB | PostgreSQL | AWS | Docker
 - 😄 Languages: TypeScript | JavaScript | Java | OOPs
